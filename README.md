@@ -20,7 +20,8 @@
 
 ## DFT
 <div align=center>
-    <img src="./spiral/sc114.png" width="20%" height="auto"><img src="./spiral/sc115.png" width="20%" height="auto"><img src="./spiral/sc116.png" width="20%" height="auto"><img src="./spiral/sc117.png" width="20%" height="auto"><img src="./spiral/sc118.png" width="20%" height="auto">    
+    <img src="./spiral/sc114.png" width="50%" height="auto"><img src="./spiral/sc115.png" width="50%" height="auto">
+    <img src="./spiral/sc116.png" width="20%" height="auto"><img src="./spiral/sc117.png" width="20%" height="auto"><img src="./spiral/sc118.png" width="20%" height="auto">    
     <img src="./spiral/sc119.png" width="20%" height="auto"><img src="./spiral/sc1110.png" width="20%" height="auto"><img src="./spiral/sc1111.png" width="20%" height="auto"><img src="./spiral/sc1112.png" width="20%" height="auto"><img src="./spiral/sc1113.png" width="20%" height="auto">    
-    <img src="./spiral/sc1114.png" width="20%" height="auto"><img src="./spiral/sc1115.png" width="20%" height="auto"><img src="./spiral/sc1116.png" width="20%" height="auto"><img src="./spiral/sc113.png" width="20%" height="auto"><img src="./spiral/sc112.png" width="20%" height="auto">
+    <img src="./spiral/sc1114.png" width="20%" height="auto"><img src="./spiral/sc1115.png" width="20%" height="auto"><img src="./spiral/sc1116.png" width="20%" height="auto">
 </div>
