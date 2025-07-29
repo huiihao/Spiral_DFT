@@ -19,7 +19,7 @@
 </div>
 
 ## DFT
-We calculated supercells for N=2 to 20, where stable dipole spiral exists when N>=5. For N=2, the configuration is antiparallel or parallel. While for N=3, it is close to the R phase.
+We calculated supercells form N=2 to 20, where stable dipole spiral exists when N>=5. For N=2, the configuration is antiparallel or parallel. While for N=3, it is close to the R phase.
 <div align=center>
     <img src="./spiral/sc114.png" width="50%" height="auto"><img src="./spiral/sc115.png" width="50%" height="auto">
     <img src="./spiral/sc116.png" width="20%" height="auto"><img src="./spiral/sc117.png" width="20%" height="auto"><img src="./spiral/sc118.png" width="20%" height="auto">    
