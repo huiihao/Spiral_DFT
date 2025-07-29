@@ -17,3 +17,10 @@
         </i><br/>  
     </p>
 </div>
+
+## DFT
+<div align=center>
+    <img src="./picture/xy1.png" width="20%" height="auto"><img src="./picture/xy2.png" width="20%" height="auto"><img src="./picture/xy3.png" width="20%" height="auto"><img src="./picture/xy4.png" width="20%" height="auto"><img src="./picture/xy5.png" width="20%" height="auto">    
+    <img src="./picture/xy6.png" width="20%" height="auto"><img src="./picture/xy7.png" width="20%" height="auto"><img src="./picture/xy8.png" width="20%" height="auto"><img src="./picture/xy9.png" width="20%" height="auto"><img src="./picture/xy10.png" width="20%" height="auto">    
+    <img src="./picture/xy11.png" width="20%" height="auto"><img src="./picture/xy12.png" width="20%" height="auto"><img src="./picture/xy13.png" width="20%" height="auto"><img src="./picture/xy14.png" width="20%" height="auto"><img src="./picture/xy15.png" width="20%" height="auto">
+</div>
