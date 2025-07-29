@@ -6,12 +6,11 @@
         <i>Author：
             <b>
             <a href="mailto:huyihao@westlake.edu.cn"> Yihao Hu (胡逸豪) 📨 </a>
-            <a href="mailto:yangjiyuan@westlake.edu.cn"> Jiyuan Yang (杨季元) 📨 </a>
-            <a href="mailto:liushi@westlake.edu.cn"> Shi Liu (刘仕) <sup>†</sup>📨 </a>
+<!--             <a href="mailto:liushi@westlake.edu.cn"> Shi Liu (刘仕) <sup>†</sup>📨 </a> -->
             </b>
         </i>
         <br/>
-        <i>Date：2024-01-11 (The last update was on 2024-07-29)</i><br/>
+        <i>Date：2025-07-29 (The last update was on 2025-07-29)</i><br/>
         <i>Lisence：This document is licensed under<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"> Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) </a>license.<br/>
          📖 <a style="font-weight:bold"> <b>Citing in your papers</b><br/></a>
          <i> We shall greatly appreciate if scientific work done using the published deep potential (<b>DP</b>)  and/or the associated database and scripts for data analysis will contain an acknowledgment to the following references</i><br/>
