@@ -5,8 +5,8 @@
         <a style="font-weight:bold"><em> ©️ <b> <i>Copyright 2025 @ Yihao Hu (胡逸豪)</i></b><br/></a></em>
         <i>Author：
             <b>
-            <a href="mailto:huyihao@westlake.edu.cn"> Yihao Hu (胡逸豪) 📨 </a>
-<!--             <a href="mailto:liushi@westlake.edu.cn"> Shi Liu (刘仕) <sup>†</sup>📨 </a> -->
+            <a href="mailto:huyihao@westlake.edu.cn"> Yihao Hu (胡逸豪) <sup>*</sup>📨 </a>
+            <a href="mailto:liushi@westlake.edu.cn"> Shi Liu (刘仕) <sup>†</sup>📨 </a>
             </b>
         </i>
         <br/>
@@ -20,7 +20,7 @@
 
 ## Introduction
 
-We share the **essential input files** for density functional theory (DFT) calculations as detailed in our paper [1]. The POSCAR for 1×1×N PbTiO$_3$ , together with INCAR and KPOINTS, can be found in our <a href="https://github.com/huiihao/Spiral">GitHub repository</a>.
+We share the **essential input files** for density functional theory (DFT) calculations as detailed in our paper [1]. The POSCAR for 1×1×N PbTiO<sub>3</sub> , together with INCAR and KPOINTS, can be found in our <a href="https://github.com/huiihao/Spiral">GitHub repository</a>.
 
 <!--The directory is organized as illustrated in the following diagram:
 
@@ -45,7 +45,7 @@ The directory is organized as illustrated in the following diagram:
   - `STRUC_3`: A subdirectory within a folder like `3.970`, representing a distinct initial dipole spiral configuration. This setup is used to comprehensively search the configuration space for stable dipole spirals.
 - `phono_band`: This directory contains the following subfolders for phonon band structure analysis:
   - `T`: Represents a conventional ferroelectric phase unit cell with polarization along the [001] direction when lattice is free. This folder contains the phonon band structure image (`freePTOphono.pdf`) and its corresponding raw data (`freePTOphono.yaml`).
-  - `spiral_115`: Represents a 1×1×5 dipole spiral supercell when $a=b=3.970$ $\rm \AA$. This folder contains the phonon band structure image (`phono.pdf`) and its corresponding raw data (`phono.yaml` in `phono.zip`).
+  - `spiral_115`: Represents a 1×1×5 dipole spiral supercell when $a=b=3.970$ Å. This folder contains the phonon band structure image (`phono.pdf`) and its corresponding raw data (`phono.yaml` in `phono.zip`).
 
 ## Structural details of 1×1×N supercells
 
