@@ -10,7 +10,7 @@
             </b>
         </i>
         <br/>
-        <i>Date：2025-07-29 (The last update was on 2025-07-29)</i><br/>
+        <i>Date：2025-07-31 (The last update was on 2025-08-07)</i><br/>
         <i>Lisence：This document is licensed under<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"> Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) </a>license.<br/>
          📖 <a style="font-weight:bold"> <b>Citing in your papers</b><br/></a>
          <i><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.046802"> [1] Giant piezoelectric effects of topological structures in stretched ferroelectric membranes, Yihao Hu, Jiyuan Yang and Shi Liu*, Phys. Rev. Lett. 133, 046802 (2024) (Editors’ Suggestion)</a>
