@@ -1,4 +1,4 @@
-# Double Helix of Atomic Displacements in Ferroelectric PbTiO<sub>3<\sub>
+# Double Helix of Atomic Displacements in Ferroelectric PbTiO<sub>3<sub>
 
 <div style="color:black; background-color:#FFF3E9; border: 1px solid #FFE0C3; border-radius: 10px; margin-top:1rem; margin-bottom:1rem">
     <p style="margin:1rem; padding-left: 1rem; line-height: 2.5;">
